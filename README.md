@@ -1,5 +1,7 @@
 # CSV to HTML Table
 
+<iframe src="https://cpprentice.github.io/csv-to-html-table/"></iframe>
+
 Display any CSV file as a searchable, filterable, pretty [HTML table](https://www.scaler.com/topics/html/tables-in-html/). Done in 100% JavaScript.
 
 Check out the working demo: https://csv-to-html-table.netlify.app/
