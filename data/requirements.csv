@@ -1,0 +1,31 @@
+Main Service,Subservice,Measure,Requirement,Req. Type,Originator
+Competence,Competence,M1.3,Should fit into the OEP design,Non-Functional,Alexandro Steinert
+,,,Should have the same login as the rest of the platform,Non-Functional,Alexandro Steinert
+,,,Creation of competence profiles possible ,Functional,Alexandro Steinert
+,,,Creation of competence clusters possible,Functional,Alexandro Steinert
+,,,Creation of competence networks possible,Functional,Alexandro Steinert
+,,,Map of Competence Clusters can be looked at,Functional,Alexandro Steinert
+General Platform,Competence or Best Practice,M1.1,Support with legal decisions,Functional,Alexandro Steinert
+,,,Support with data protection,Functional,Alexandro Steinert
+Transparency,Transparency,M1.3,Should fit into the OEP design,Non-Functional,Alexandro Steinert
+,,,Should have the same login as the rest of the platform,Non-Functional,Alexandro Steinert
+Best Practice,Best Practice,M1.3,Should fit into the OEP design,Non-Functional,Alexandro Steinert
+,,,Should have the same login as the rest of the platform,Non-Functional,Alexandro Steinert
+General Platform ,Best Practice?,M1.1,"Research process checklists and tutorials Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",Functional,Alexandro Steinert
+General Platform ,Best Practice?,M1.1,Data Management checklists and Tutorials,Functional,Alexandro Steinert
+General Platform ,Best Practice?,M1.1,Best Practic/What to avoid examples based on specific cases,Functional,Alexandro Steinert
+General Platform,Registry/Repository,M1.1,Data must be reliable, ,Functional,Alexandro Steinert
+,,,Origin and conflicts of interest of data must be presented transparently and traceable,Functional,Alexandro Steinert
+,,,Data format must fit purpose,Functional,Alexandro Steinert
+,,,"User interface like ""destatis""with configurable tables",Functional,Alexandro Steinert
+General Platform,General Platform,M1.3,Federated Login through different Identity Providers,Non-Functional,Alexandro Steinert
+Registry,"All (LDM, ORKG, TS, submission service, etc.)",M4.1, M4.4,Should fit into the OEP design,Non-Functional,Amanda Wein
+,,,Should have the same login as the rest of the platform,Non-Functional,Amanda Wein
+,,,Tutorials available,Functional,Amanda Wein
+Registry,submission service,M4.4,Accept a variety of submission types,Functional,Amanda Wein
+,,,Data submissions must be uploaded in the most appropriate repositories,Functional,Amanda Wein
+,,,PIDs must be assigned to resources (if the resource doesn't have one already),Functional,Amanda Wein
+,,,verify that PIDs aren't duplicated,Functional,Amanda Wein
+Registry,TS,M4.1,origins and licensing of submitted ontologies must be verified prior to upload,Functional,Amanda Wein
+,,,PIDs must be assigned to resources (if the resource doesn't have one already),Functional,Amanda Wein
+,,,verify that PIDs aren't duplicated,Functional,Amanda Wein
